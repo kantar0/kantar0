@@ -1,4 +1,4 @@
-<p align='center'><img src="#" alt="logo" border="0" width='600px'></p>
+
 
 
 Description
@@ -15,11 +15,9 @@ Description
 ### 👉🏻 More about me
  
 <p align="left">
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-informational?style=flat&logo=codepen&logoColor=white&color=black" alt="latialuci" height="20" /></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="lucicodes" height="20"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luciamezquidajuan" height="20"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-informational?style=flat&logo=hackerrank&logoColor=white&color=green" alt="lucia_mezquida"/></a>
-  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-informational?style=flat&logo=medium&logoColor=white&color=black" alt="lucia_mezquida"/></a>
+<a href="https://codepen.io/kantar0" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-informational?style=flat&logo=codepen&logoColor=white&color=black" alt="codepen - kantar0" height="20" /></a>
+<a href="https://twitter.com/kantar0" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kantar0" height="20"/></a>
+  <a href="https://medium.com/@kantar0" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-informational?style=flat&logo=medium&logoColor=white&color=black" alt="kantar0"/></a>
 </p>
 
 <!--
