@@ -104,9 +104,9 @@ My goal is to keep learning and developing my skills, keep learning and be a bet
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> 
     </a>  
     &nbsp;
-   
     <a href="https://www.instagram.com/kantar0/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/> 
     </a>  
+	
 </p>
 
