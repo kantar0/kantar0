@@ -93,7 +93,7 @@ My goal is to keep learning and developing my skills, keep learning and be a bet
 ## 📲 Contact me!
 <p align="center">
     <a href="https://kantar0.dev/" target="_blank"> 
-        <img src="https://www.pngkit.com/png/detail/205-2055556_free-icons-png-web-icon-round-png.png" alt="website" width="40" height="40"/> 
+        <img src="https://toppng.com/uploads/preview/world-icon-web-icon-white-11563010874xluuy00vry.png" alt="website" width="40" height="40"/> 
     </a>  
     &nbsp;
     <a href="mailto:pedro@kantar0.dev" target="_blank"> 
