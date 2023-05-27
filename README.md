@@ -78,18 +78,6 @@ My goal is to keep learning and developing my skills, keep learning and be a bet
   </p>
 </details>
 
-<details> 
-  <summary><b>🧰 Projects</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://top.gg/bot/854182792626831380" target="_blank"> 
-      <img src="https://images.discordapp.net/avatars/854182792626831380/ba0bb1178faa0fa128c4cdd1d0d3fdcb.png" width="128">
-      <br />
-      <b>DolarBotVe</b>
-    </a>
-  </p>
-</details>
-
 ## 📲 Contact me!
 <p align="center">
     <a href="https://kantar0.dev/" target="_blank"> 
