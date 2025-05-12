@@ -66,13 +66,13 @@
         <img src="https://fastapi.tiangolo.com/img/logo-margin.png" alt="fastapi" width="40" height="40"/>
     </a>
     <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="tensorflow" width="40" height="40"/>
     </a>
     <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.svgrepo.com/show/354228/pytorch.svg" alt="pytorch" width="40" height="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="40" height="40"/>
     </a>
     <a href="https://ethereum.org/en/" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/871/710/png-clipart-ethereum-cryptocurrency-bitcoin-blockchain-logo-ethereum-thumbnail.png" alt="ethereum" width="40" height="40"/>
+        <img src="https://png.pngtree.com/png-vector/20210522/ourmid/pngtree-vector-illustration-of-crytocurrency-ethereum-png-image_3314668.jpg" alt="ethereum" width="40" height="40"/>
     </a>
 </p>
 <br />
