@@ -63,7 +63,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin.png" alt="fastapi" width="40" height="40"/>
+        <img src="https://cosasdedevs.com/media/sections/images/fastapi.png" alt="fastapi" width="40" height="40"/>
     </a>
     <a href="https://www.tensorflow.org/" target="_blank">
         <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="tensorflow" width="40" height="40"/>
