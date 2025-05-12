@@ -91,11 +91,11 @@
 
 ## 📲 ¡Contáctame!
 <p align="center">
-    <a href="https://kantar0.dev/" target="_blank">
+    <a href="https://calewche.com/" target="_blank">
         <img src="https://kantar0.dev/media/web.svg" alt="website" width="40" height="40"/>
     </a>
     &nbsp;
-    <a href="mailto:pedro@kantar0.dev" target="_blank">
+    <a href="mailto:pedro@calewche.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
     </a>
     &nbsp;
